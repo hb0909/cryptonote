@@ -84,7 +84,7 @@ const size_t   BLOCKS_IDS_SYNCHRONIZING_DEFAULT_COUNT        =  10000;  //by def
 const size_t   BLOCKS_SYNCHRONIZING_DEFAULT_COUNT            =  200;    //by default, blocks count in blocks downloading
 const size_t   COMMAND_RPC_GET_BLOCKS_FAST_MAX_COUNT         =  1000;
 
-//This port will be used by the daemon to establish connections with p2p network
+//This port will be used by the daemon to establish connections with p2p 
 const int      P2P_DEFAULT_PORT                              = 13777;
 //This port will be used by the daemon to interact with simlewallet
 const int      RPC_DEFAULT_PORT                              = 14888;
